@@ -4,7 +4,7 @@
   "description": "A personal card for Tierney Cyren (@bitandbang)",
   "main": "index.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "avramz": "./bin/card.js"
   },
   "repository": {
     "type": "git",
